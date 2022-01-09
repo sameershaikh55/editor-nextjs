@@ -1,0 +1,28 @@
+.root {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.logo {
+  margin-top: 80px;
+  font-size: 44px;
+}
+
+.logo .f_logo {
+  color: #f71f1e;
+  font: normal normal 600 44px/65px Poppins;
+}
+
+.logo .l_logo {
+  font: normal normal normal 44px/65px Poppins;
+}
+
+.sign_in {
+  margin-top: 128px;
+  text-align: center;
+}
+
+.sign_in span {
+  font: normal normal 38px/46px Poppins;
+}

@@ -1,0 +1,111 @@
+.root {
+    display: flex;
+    flex-direction: column;
+    align-items: right;
+}
+  
+.logo {
+    margin-top: 10px;
+    margin-left: 20px;
+    width: 72px;
+    height: 43px;
+    /* text-align: left; */
+}
+
+.home {
+    margin-top: -122px;
+    margin-left: 1034px;
+    width: 42px;
+    height: 20px;
+}
+
+.tem {
+    margin-top: 80px;
+    margin-left: 1126px;
+    width: 75px;
+    height: 20px;
+}
+
+.creative {
+    margin-top: -18px;
+    margin-left: 1250px;
+    /* text-align: left; */
+    width: 110px;
+    height: 20px;
+}
+
+.creatives {
+    margin-top: -18px;
+    margin-left: 1408px;
+    /* text-align: left; */
+    width: 70px;
+    height: 20px;
+}
+
+.temp {
+    margin-top: -19px;
+    margin-left: 1517px;
+    /* text-align: left; */
+    width: 80px;
+    height: 20px;
+}
+
+.heading {
+    margin-top: 298px;
+    text-align: center;
+    width: 747px;
+    height: 89px;
+    margin-left: 480px;
+    
+}
+
+                                    /* seperate */
+  
+.logo .f_logo {
+    color: #0f0c0c;
+    font: normal normal 600 30px/46px Poppins;
+    text-align: left;
+}
+  
+.logo .l_logo {
+    font: normal normal normal 30px/46px Poppins;
+    text-align: left;
+}
+
+.home .h_home {
+    text-align: left;
+    color: #0e0d0d;
+    font: normal normal normal 14px/222px Poppins;
+}
+
+.tem .t_templates {
+    text-align: left;
+    color: #0e0d0d;
+    font: normal normal normal 14px/22px Poppins;
+}
+
+.temp .t_temp {
+    text-align: left;
+    color: #0e0d0d;
+    font: normal normal normal 14px/22px Poppins;
+}
+
+.creative .c_creative {
+    text-align: left;
+    color: #0e0d0d;
+    font: normal normal normal 14px/22px Poppins;
+}
+.creatives .c_creatives {
+    text-align: left;
+    color: #0e0d0d;
+    font: normal normal normal 14px/22px Poppins;
+}
+
+.heading .h_headtext {
+    font: normal normal normal 64px/101px Poppins;
+    letter-spacing: 0px;
+    color: #971a1a;
+    opacity: 1;
+}
+
+
